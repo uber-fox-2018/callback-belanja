@@ -8,9 +8,11 @@ class ListBeli {
     }
 }
 
+
+
 let beras = new ListBeli('Beras', 8000, 200)
-let minyak = new ListBeli('Minyak', 4000, 200)
-let susu = new ListBeli('Susu', 12000, 200)
+let minyak = new ListBeli('Minyak', 4000, 2000)
+let susu = new ListBeli('Susu', 12000, 2)
 let shampoo = new ListBeli('Shampoo', 1000, 100)
 
 
