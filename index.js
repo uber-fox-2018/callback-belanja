@@ -22,7 +22,7 @@ beli(50000, {
             }, (kembalian) => {
                 beli(kembalian, {
                     item: 'Motor',
-                    harga: 20000,
+                    harga: 30000,
                     waktu: 100
                 }, (kembalian) => {
                     console.log(kembalian)
